@@ -1,0 +1,3 @@
+// The screenshots have been updated to include proof that the app was run on Android Studio this week.
+// The Florida Water Story Github folder was also reorganized with the Graphics and UI going into a subfolder of the Group
+//Assignment folder and any empty folders being deleted.
